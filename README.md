@@ -1,1 +1,3 @@
-# cs247r-turing_award_study
+Final Project of CS247r: A Study of Turing Award
+
+Please read the pdf for details.
